@@ -1,4 +1,4 @@
-# plant_disease_ideantification
+# Plant_disease_ideantification
 Plant disease identification with the help of leaf 
 # Overview
 The goal of this project is to develop an AI-based system that can accurately categorize plant leaf images into various disease classes or identify them as healthy. The system uses image augmentation techniques to improve model robustness and generalization.
