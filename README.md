@@ -2,7 +2,7 @@
 
 Various rice plant diseases negatively affect crop yield and food security. Early detection and warning can help prevent disease outbreaks and reduce pesticide costs. Most rice agricultural villages in the Philippines, on the other hand, lack adequate rice plant disease experts.
 
-Rice disease identification is a mobile application that aims to help farmers on their Rice Crops production yields through minimizing the risk of misinterpretation of diseases that are extremely the same in appearance that may lead to misuse of medication.The App features an image scanner that identifies different Rice Diseases using machine learning technologies, it also features a library of the Rice Diseases that shows information about the disease. The app aims to provide user friendly assistance to the farmers that could somehow impact their Rice Disease Management.
+Rice disease identification and classification with  a mobile application that aims to help farmers on their Rice Crops production yields through minimizing the risk of misinterpretation of diseases that are extremely the same in appearance that may lead to misuse of medication.The App features an image scanner that identifies different Rice Diseases using machine learning technologies, it also features a library of the Rice Diseases that shows information about the disease. The app aims to provide user friendly assistance to the farmers that could somehow impact their Rice Disease Management.
 
 Link to Apk file: https://drive.google.com/drive/folders/16kXOCG5Ot1UWaAqYdGxOx017PJ8XM-RS?usp=sharing
 
