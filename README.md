@@ -1,3 +1,5 @@
+
+
 <strong><h1>Rice Disease Identification Mobile App</h1></strong>
 
 Various rice plant diseases negatively affect crop yield and food security. Early detection and warning can help prevent disease outbreaks and reduce pesticide costs. Most rice agricultural villages in the Philippines, on the other hand, lack adequate rice plant disease experts.
