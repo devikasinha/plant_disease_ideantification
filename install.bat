@@ -1,6 +1,5 @@
 @echo off
 setlocal enableextensions
-
 cd %~dp0
 
 set TF_VERSION=2.5
